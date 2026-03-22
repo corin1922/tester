@@ -1,6 +1,6 @@
 {
-  "name": "Kamus Deh",
-  "short_name": "Kamus Deh",
+  "name": "Kamus Bahasa Indonesia",
+  "short_name": "Kamus Bahasa Indonesia",
   "description": "인도네시아어-한국어 사전",
   "start_url": "/",
   "display": "standalone",
